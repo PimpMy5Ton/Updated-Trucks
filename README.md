@@ -107,7 +107,7 @@ GTM Peterbilt 567: https://sharemods.com/uszkn8x4ckf4/GTM_Peterbilt_567.scs.html
 
 -------------------------------------
 
-Kenworth "The Phantom": http://www.mediafire.com/file/9en9pe2xafcfgdk/Kenworth_The_Phantom.ATS.scs/file
+Kenworth "The Phantom": https://sharemods.com/rvrzmvkahths/Kenworth_The_Phantom.ATS.scs.html
 
 -------------------------------------
 
