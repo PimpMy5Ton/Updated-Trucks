@@ -111,3 +111,7 @@ Kenworth "The Phantom": http://www.mediafire.com/file/9en9pe2xafcfgdk/Kenworth_T
 
 -------------------------------------
 
+Freightliner Condor: https://sharemods.com/ck7qrz7q5b79/Freightliner_Condor_By_Carlos.scs.html
+
+-------------------------------------
+
