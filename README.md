@@ -115,3 +115,15 @@ Freightliner Condor: https://sharemods.com/ck7qrz7q5b79/Freightliner_Condor_By_C
 
 -------------------------------------
 
+CAT CT660: https://sharemods.com/xqqubngsg1cg/ATS_CAT_CT660_RTA-Mods_v.2.0.scs.html
+
+-------------------------------------
+
+Kenworth w900a: https://sharemods.com/w449c24b2ffs/Kenworth_W900a_dmitry68-Stas556_fix.scs.html
+
+-------------------------------------
+
+Volvo VT880: https://sharemods.com/sv165uomdfpy/Volvo_VT880.scs.html
+
+-------------------------------------
+
