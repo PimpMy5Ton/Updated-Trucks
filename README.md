@@ -127,3 +127,7 @@ Volvo VT880: https://sharemods.com/sv165uomdfpy/Volvo_VT880.scs.html
 
 -------------------------------------
 
+Freightliner Inspiration: https://sharemods.com/o4vnq3yu4aha/Freightliner_Inspiration_for_ATS_dmitry68_v2_0.scs.html
+
+-------------------------------------
+
