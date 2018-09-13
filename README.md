@@ -131,3 +131,11 @@ Freightliner Inspiration: https://sharemods.com/o4vnq3yu4aha/Freightliner_Inspir
 
 -------------------------------------
 
+Mack Anthem 2018 - Slayer72 EDIT: https://sharemods.com/7ugi6z4de09n/MACK_ANTHEM_2018_EDIT_SLAYER72.scs.html
+
+-------------------------------------
+
+Rear Steerable Axles for SCS Trucks: https://sharemods.com/7uq54maa2bg4/Rear_Steer_Axles_for_SCS_Trucks.scs.html
+
+-------------------------------------
+
