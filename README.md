@@ -143,3 +143,7 @@ Peterbilt 387: http://www.mediafire.com/file/a3rvxd7gdmact95/Peterbilt_387.scs
 
 -------------------------------------
 
+Freightliner Cascadia 2018 Fixed for v1.32.x: http://www.mediafire.com/file/k7sb1nt8dj70q6k/Freightliner_Cascadia_2018_v4.5.1%5B1.32%5D_%5BFIX_09.21.2018%5D.scs/file
+
+-------------------------------------
+
