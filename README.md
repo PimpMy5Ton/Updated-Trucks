@@ -139,3 +139,7 @@ Rear Steerable Axles for SCS Trucks: https://sharemods.com/7uq54maa2bg4/Rear_Ste
 
 -------------------------------------
 
+Peterbilt 387: http://www.mediafire.com/file/a3rvxd7gdmact95/Peterbilt_387.scs
+
+-------------------------------------
+
