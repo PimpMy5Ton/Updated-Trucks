@@ -147,3 +147,7 @@ Freightliner Cascadia 2018 Fixed for v1.32.x: http://www.mediafire.com/file/k7sb
 
 -------------------------------------
 
+Long Sleeper for 389: https://sharemods.com/x340d2st07d5/389sleeper.scs.html (Select Big Sleeper in Cabin selections)
+
+-------------------------------------
+
