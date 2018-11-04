@@ -1,4 +1,4 @@
-Updated Trucks for ATS v1.31.x By Slayer72: (Also works for v1.32.x Beta)
+Updated Trucks for ATS v1.32.x By Slayer72:
 -------------------------------------
 
 International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html
