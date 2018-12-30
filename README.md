@@ -1,4 +1,4 @@
-Updated Trucks for ATS v1.32.x By Slayer72:
+Updated Trucks for ATS v1.33.x By Slayer72:
 -------------------------------------
 
 Honda S2000: https://sharemods.com/mn8sb0yolkdx/HondaS2000_ataberkozen-ATS.scs.html
