@@ -1,10 +1,6 @@
 Updated Trucks for ATS v1.32.x By Slayer72:
 -------------------------------------
 
-International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html
-
--------------------------------------
-
 Honda S2000: https://sharemods.com/mn8sb0yolkdx/HondaS2000_ataberkozen-ATS.scs.html
 
 -------------------------------------
@@ -50,12 +46,6 @@ RTA-Mods Peterbilt 359: https://sharemods.com/6a9d6fyba58y/ATS_RTA-Mods_Peterbil
 -------------------------------------
 
 2017 Nissan GTR: https://sharemods.com/e01ugpnzdy0c/AtsNissan_Gtr_2017_By_KadirYagiz_.scs.html
-
--------------------------------------
-
-
-Livestock trailer by Pinga: https://sharemods.com/vb3czujak3k9/Livestock_Pinga_1.3.scs.html
-
 
 -------------------------------------
 
